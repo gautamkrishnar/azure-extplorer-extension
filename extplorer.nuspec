@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>extplorer</id>
+    <title>Extplorer File manager</title>
+    <version>2.1.7</version>
+    <authors>Gautam krishna R</authors>
+    <licenseUrl>https://opensource.org/licenses/gpl-license</licenseUrl>
+    <projectUrl>https://github.com/gautamkrishnar/azure-extplorer-extension</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>eXtplorer is a web-based File Manager. You can use it to manage your website files on azure easily.</description>
+    <iconUrl>https://raw.githubusercontent.com/gautamkrishnar/azure-extplorer-extension/master/extpl.png</iconUrl>
+    <tags>php file manager</tags>
+  </metadata>
+  <files>
+    <file src="**\*.*" target="content" />
+  </files>
+</package>
