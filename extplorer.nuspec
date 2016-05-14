@@ -3,13 +3,13 @@
   <metadata>
     <id>extplorer</id>
     <title>Extplorer File manager</title>
-    <version>2.1.8</version>
+    <version>2.1.9</version>
     <authors>Gautam krishna R</authors>
     <licenseUrl>https://opensource.org/licenses/gpl-license</licenseUrl>
-    <projectUrl>http://gx5.co.uk/images/easyblog_shared/extplorer.jpg</projectUrl>
+    <projectUrl>https://github.com/gautamkrishnar/azure-extplorer-extension</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>eXtplorer is a web-based File Manager. You can use it to manage your website files on azure easily. Default admin username and password: admin</description>
-    <iconUrl>https://raw.githubusercontent.com/gautamkrishnar/azure-extplorer-extension/master/extpl.png</iconUrl>
+    <description>eXtplorer is a web-based File Manager. You can use it to manage your website files on azure easily. Default admin username and password: admin. Just visit https://your-sitename.scm.azurewebsites.net/extplorer</description>
+    <iconUrl>http://gx5.co.uk/images/easyblog_shared/extplorer.jpg</iconUrl>
     <tags>php file manager</tags>
   </metadata>
   <files>
