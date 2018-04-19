@@ -4,5 +4,5 @@
 if( !defined( '_JEXEC' ) && !defined( '_VALID_MOS' ) ) die( 'Restricted access' );
 
 $GLOBALS["users"]=array(
-	array("admin","21232f297a57a5a743894a0e4a801fc3",'D:\home\site'):$_SERVER['DOCUMENT_ROOT'],"http://localhost",1,"",7,1),
+	array("admin","21232f297a57a5a743894a0e4a801fc3",'D:\\home\\site',"http://localhost",1,"",7,1),
 ); ?>
